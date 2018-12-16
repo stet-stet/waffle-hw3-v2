@@ -1,0 +1,24 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.root-wrapper{
+    max-width:540px;
+    padding-top:30px;
+    padding-bottom:30px;
+    border-radius: 10px;
+}
+
+
+.round-border{
+  border-radius: 2px;
+
+}
+
