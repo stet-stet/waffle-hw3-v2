@@ -1,2 +1,3 @@
 # waffle-hw3
-(welp)
+The files are in ./WaffleReactSkeleton
+Please check them out.
